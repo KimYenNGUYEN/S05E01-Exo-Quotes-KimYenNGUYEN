@@ -44,7 +44,7 @@ body {
 ol {
   justify-content: left;
   font-size: 50px;
-  margin-right: 65%;
+  margin-right: 10rems;
   margin-left: 1rem;
   padding: 2rem;
   border: solid, pink, 10px;
@@ -57,4 +57,5 @@ margin: 3rem;
 font-size: 4rem;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 text-align: center;
+justify-content: center;
  }
